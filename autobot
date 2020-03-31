@@ -1,0 +1,48 @@
+{
+  "defaultIcon": "star",
+  "type": "fleet",
+  "users": [
+    {
+      "name": "semi",
+      "allyCode": "181177482",
+      "flag": "flag_gr",
+      "discordId": ""
+    },
+    {
+      "name": "Daichan",
+      "allyCode": "123247348",
+      "flag": "flag_jp"
+    },
+    {
+      "name": "whassup",
+      "allyCode": "531347863",
+      "flag": "flag_sg"
+    },
+    {
+      "name": "mr.badger",
+      "allyCode": "562223919",
+      "flag": "flag_fi"
+    },
+    {
+      "name": "banelordofthesith",
+      "allyCode": "141941297",
+      "flag": "flag_de"
+    },
+    {
+      "name": "captainroguesaber",
+      "allyCode": "961877767"
+    },
+    {
+      "name": "crazytkr",
+      "allyCode": "374842943"
+    },
+    {
+      "name": "d4rth m4ul",
+      "allyCode": "597364465"
+    },
+    {
+      "name": "buzzthrower666",
+      "allyCode": "82999226"
+    }
+  ]
+}
