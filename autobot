@@ -43,6 +43,11 @@
     {
       "name": "buzzthrower666",
       "allyCode": "82999226"
-    }
+    },
+    {
+      "name": "изгой",
+      "allyCode": "273425755",
+      "flag": "flag_ru"
+    }  
   ]
 }
